@@ -12,7 +12,7 @@ kostenlos - 0 Euro
 
 # Screenshots
 Deckblatt (geladene Datei: Wettkampfdefinitionsliste der Deutschen Kurzbahnmeisterschaften 2018 in Berlin)
-![grafik](https://user-images.githubusercontent.com/46203833/50496888-9e7b4780-0a33-11e9-92b6-598ab5e1b3dd.png)
+![grafik](https://user-images.githubusercontent.com/46203833/50497097-21e96880-0a35-11e9-9bbb-fa2aaeff1582.png)
 
 Wettkampf-Programm (geladene Datei: Wettkampfdefinitionsliste der Deutschen Kurzbahnmeisterschaften 2018 in Berlin)
 ![grafik](https://user-images.githubusercontent.com/46203833/50496910-bf439d00-0a33-11e9-83e5-fddc878db557.png)
