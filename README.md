@@ -6,9 +6,6 @@ Mit diesem Tool können DSV6-Dateien (Wettkampfdefinitionsliste, Vereinsmeldelis
 # Preis
 kostenlos - 0 Euro
 
-# Kontakt
-Für Fragen, Bugmeldungen, Featurewünsche und Support: libreDSV6@web.de (aktuell kann der libreDSV6.reader nur per E-Mail bezogen werden, da das Tool sich noch in der Entwicklung befindet)
-
 # technische Anforderungen
 * Installation von LibreOffice (kostenlose Open Source Software, Download: https://www.libreoffice.org/), empfohlene Version: 6.0 oder neuer (Alternative: OpenOffice)
 * Läuft somit auf Windows, MacOS und Linux
@@ -26,3 +23,8 @@ Liste der Meldungen (geladene Datei: Vereinsmeldeliste)
 Meldungen als Matrix (geladene Datei: Vereinsmeldeliste)
 ![grafik](https://user-images.githubusercontent.com/46203833/50497017-82c47100-0a34-11e9-8768-cb0822de5ebc.png)
 
+# DSV6-Format
+technische Spezifikation, siehe dsv.de: http://www.dsv.de/fileadmin/dsv/documents/schwimmen/Amtliches/151111_DSVStandard_Version6.pdf
+
+# Kontakt
+Für Fragen, Bugmeldungen, Featurewünsche und Support: libreDSV6@web.de (aktuell kann der libreDSV6.reader nur per E-Mail bezogen werden, da das Tool sich noch in der Entwicklung befindet)
