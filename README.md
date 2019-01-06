@@ -23,6 +23,16 @@ Liste der Meldungen (geladene Datei: Vereinsmeldeliste)
 Meldungen als Matrix (geladene Datei: Vereinsmeldeliste)
 ![grafik](https://user-images.githubusercontent.com/46203833/50497017-82c47100-0a34-11e9-8768-cb0822de5ebc.png)
 
+# Datei öffnen
+## Makro-Abfrage
+![grafik](https://user-images.githubusercontent.com/46203833/50741616-e5b9c300-11ff-11e9-8af8-c591221920f4.png)
+Mit dem Button "Makros aktivieren" bestätigen.
+
+## Marko-Abfrage einstellen
+Extras -> Optionen
+![grafik](https://user-images.githubusercontent.com/46203833/50741661-3df0c500-1200-11e9-9b7b-77372f023cfe.png)
+
+
 # DSV6-Format
 technische Spezifikation, siehe dsv.de: http://www.dsv.de/fileadmin/dsv/documents/schwimmen/Amtliches/151111_DSVStandard_Version6.pdf
 
